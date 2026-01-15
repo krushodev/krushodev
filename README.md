@@ -160,15 +160,6 @@ My main stack includes <strong>React, Next.js, TypeScript, and Redux</strong>, b
 <h3 align="left">📊 My GitHub Stats</h3>
 
 <p align="center">
-  <a href="https://github.com/krushodev/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krushodev&layout=compact&theme=dark&hide_border=true" alt="Top Langs" />
-  </a>
-  <a href="https://github.com/krushodev/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=krushodev&theme=dark&show_icons=true&hide_border=true" alt="krushodev's GitHub stats" />
-  </a>
-</p>
-
-<p align="center">
   <a href="https://streak-stats.demolab.com/?user=krushodev&theme=dark&hide_border=true">
     <img align="center" src="https://streak-stats.demolab.com/?user=krushodev&theme=dark&hide_border=true" alt="GitHub Streak" />
   </a>
