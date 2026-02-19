@@ -1,19 +1,11 @@
 <div align="center">
   <img src="./images/header.jpg" style="width: 100%; height: 100%; border-radius: 10px">
-  
-  <img src="https://komarev.com/ghpvc/?user=krushodev&label=Profile%20Views&color=007ACC&style=flat" alt="Views" />
 </div>
 
 <br>
 
 <h2 align="center">Hi 👋, I'm Nacho</h2>
 <h3 align="center">A passionate Full Stack Developer from Argentina 🇦🇷</h3>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=krushodev&theme=darkhub&no-frame=true&column=7" alt="github-profile-trophy" />
-  </a>
-</p>
 
 <br>
 
