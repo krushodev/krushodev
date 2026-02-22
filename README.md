@@ -99,11 +99,6 @@ My main stack includes <strong>React, Next.js, TypeScript, and Redux</strong>, b
 <h3 align="left">📊 My GitHub Stats</h3>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=krushodev&show_icons=true&theme=dark&hide_border=true" alt="Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krushodev&layout=compact&theme=dark&hide_border=true" alt="Langs" />
-</p>
-
-<p align="center">
   <img width="97%" src="https://streak-stats.demolab.com/?user=krushodev&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
