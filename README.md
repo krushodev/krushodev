@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./images/header.jpg" style="width: 100%; height: 100%; border-radius: 10px">
+  <img src="./images/hero.gif" style="width: 100%; height: 100%; border-radius: 10px">
 </div>
 
 <br>
